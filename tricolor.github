@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+ <head>
+    <link rel="stylesheet" href="estilo2.css"></link>
+    <meta charset="utf-8">
+    <title> HISTORIA DE VITO GIANNOTTI</title>
+  </head>
+  <body id="topo">
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="#QUEM FOI ELE?">
+            SUA HISTÓRIA
+          </li>
+          <li>
+            <a href="#TRAJETÓRIA">
+            TRAJETÓRIA
+          </a>
+          </li>
+          <li>
+            <a href="#SEUS LIVROS">
+            SEUS LIVROS
+          </a>
+          </li>
+          <li>
+            <a href="#ENTREVISTAS">
+            ENTREVISTAS
+          </a>
+          </li>
+        </ul>
+      </nav>
+      <h1># CONHEÇA A HISTORIA DE </h1>
+      <p class="paragrafo1">VITO GIANNOTTI</p>
+      <p class="paragrafo2">GRANDE COMUNICADOR POPULAR</p>
+        <a href="https://www.youtube.com/watch?v=yObzSER_-m4/"><button>HOMENAGEM</button></a>
+    </header>
+    <section class="vermelho" id="QUEM FOI ELE?">
+      <h2>SUA HISTORIA</h2>
+      <p>Vitor Giannotti (Lucca, 1943 – Rio de Janeiro, 24 de julho de 2015) foi um dos nomes mais importantes da comunicação sindical, popular e comunitária no Brasil. Trabalhou como metalúrgico e foi líder sindical, sendo perseguido político durante o regime militar brasileiro, preso e torturado. Escreveu mais de 20 livros sobre sindicalismo e comunicação, e fundou o Núcleo Piratininga de Comunicação (NPC), que realiza cursos de comunicação popular em todo o país.
+</p>
+    </section>
+    <section class="branco" id="TRAJETÓRIA">
+      <h2>O QUE FEZ</h2>
+      <p>Sempre envolvido com as causas dos operários, enfrentou a ditadura. Foi preso, torturado, mas jamais desistiu de se empenhar em construir uma sociedade mais justa. Eterno lutador da Oposição Metalúrgica, foi diretor da Central Única dos Trabalhadores (CUT) naquele estado[2].
+
+No Rio de Janeiro, fundou o Núcleo Piratininga de Comunicação (NPC) em 1992, quando o neoliberalismo avançava e sindicatos e trabalhadores se viam cada vez mais enfraquecidos. À frente do NPC, Gianotti mudou a cara da imprensa sindical e popular brasileira: ensinou os profissionais da área não só a tornarem os jornais de classe mais atrativos e palatáveis aos anseios de seus públicos alvos, como também a utilizarem a comunicação como ferramenta imprescindível para a disputa de hegemonia.
+
+Gianotti também estimulou várias gerações de comunicadores populares e sindicais e empunharem a bandeira da luta pela democratização da comunicação, assunto que dominava como poucos e sobre o qual dedicou grande parte de sua produção intelectual.
+
+Incansável, Gianotti nunca desanimava frente às dificuldades da conjuntura, fossem elas quais fossem. Como lembrou o jornalista carioca Gustavo Barreto, quando todos já estavam cansados de tanta injustiça, tanta dor e tanta exploração, lá vinha ele gritando: ‘levanta garoto’. “Ele reenergizava todos”, resumiu. Sua enteada, Luiza Santiago, lembrou a frase do padrasto que se tornou célebre no mundo sindical brasileiro: “A luta continua, porra!”[3]
+
+Junto com a companheira Claudia Santiago, era proprietário da livraria Antônio Gramsci, no coração do Rio de Janeiro, que acabou se tornando um ponto de encontro de intelectuais de esquerda e lutadores populares. Dono de um coração enorme, Vito acumulava amigos por onde passava: tinha sempre uma palavra de carinho, de consolo, de esperança. Sabia fazer o enfrentamento “sem perder a ternura jamais”, como propôs certa vez um dos ídolos que ele ostentava nas suas camisetas.
+
+Vito sempre insistiu que um jornal para a classe trabalhadora deve ser bonito, agradável e possível de ser lido, por exemplo, nos meios de transporte público. Assim, com grande influência dele, no dia 1 de maio de 2014, foi lançada a primeira edição do Jornal de Brasil de Fato RJ, em formato tablóide, distribuído gratuitamente na ruas da cidade. Atualmente, a edição regional do jornal também é produzida em Minas Gerais e São Paulo.
+
+Vito faleceu no Rio de Janeiro, no dia 24 de julho de 2015.</p>
+    </section>
+    <section class="vermelho" id="onde">
+        <h2>FOTO DE VITO GIANNOTTI </h2>
+        <img src="vito-giannotti.jpg"></img>
+    </section>
+    <section class="verde" id="quemsomos">
+        <h2>SEUS LIVROS</h2>
+        <p>A Liberdade Sindical no Brasil (Brasiliense, 1986) [4]
+O que é Jornalismo Operário (Brasiliense, 1988) [5]
+Reconstruindo nossa história: 100 anos de luta operária no Brasil (Brasiliense, 1988) [6]
+O que e jornalismo sindical (Brasiliense, 1988)[7]
+A CUT por dentro e por fora (Vozes, 1990) [8]
+A CUT ontem e hoje (Vozes, 1991) [9]
+Para onde vai a CUT? (Scritta, 1993) [10]
+Medeiros visto de perto (Brasil Urgente, 1994)[11]
+Collor, a CUT e a pizza
+Trabalhadores da aviação: de Getúlio a FHC
+Cem anos de luta operária
+Comunicação sindical: falando para milhões (Vozes, 1997) [12]
+Manual de Linguagem Sindical (NPC, 2000) [13]
+Muralhas da Linguagem (Mauad, 2004) [14]
+Dicionário de Politiquês (NPC, 2010) [15]
+Força Sindical, a central neoliberal (Mauad, 2002) [16]
+História das lutas dos trabalhadores no Brasil (Mauad, 2007)
+Comunicação dos Trabalhadores e Hegemonia (Perseu Abramo e NPC, 2014)</p>
+      </section>
+      <section class="preto" id="ENTREVISTAS">
+        <h2>ENTREVISTAS</h2>
+        <footer>
+          <ul>
+            <li><a href="http://pcb.org.br/portal/index.php?option=com_content&view=article&id=7915:vito-giannotti-lanca-novo-livro-sobre-comunicacao-dos-trabalhadores-e-hegemonia&catid=61:cultura-revolucionaria">WIKIPÉDIA</a></li>
+        </section>
+        </footer>
+          <ul>
+            <a href="#topo"><button>TOPO</button></a>
+      </footer>
+  </body>
+</html>
